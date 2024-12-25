@@ -9,7 +9,7 @@ Here, I will add all the projects, examples, and exercises I practice while lear
 - This repository is for beginners (like me) who are just starting to learn JavaScript.  
 - It will include:
   - ✏️ Basic JavaScript programs.
-  - 🛠️ Small projects for practice.
+  - 🔨 Small projects for practice.
   - 📄 Notes and examples I find useful.
 
 ---
@@ -21,22 +21,21 @@ Here, I will add all the projects, examples, and exercises I practice while lear
 
 ---
 
-## 🗺️ Learning Path
-1. 🥇 Basics of JavaScript (variables, functions, loops, etc.).
-2. 🥈 DOM manipulation.
-3. 🥉 Small projects (like a calculator or to-do list).
+## 🗐 Learning Path
+1. 🏆 Basics of JavaScript (variables, functions, loops, etc.).
+2. 🏆 DOM manipulation.
+3. 🏆 Small projects (like a calculator or to-do list).
 
 ---
 
-## 📈 Progress Graph
-Here’s a graph that represents my learning progress so far:  
-![Learning Progress](https://via.placeholder.com/500x300?text=JS+Learning+Progress+Graph)
+
+
 
 ---
 
-## 😂 Funny Animation for Beginner Coders  
-Learning JavaScript as a beginner sometimes feels like this:  
-![Funny Coder Animation](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
+## 🌊 life of coder😂👍
+
+![Wave Animation](https://media4.giphy.com/media/iT0XxjFbxDO2xdpTWw/giphy.gif?cid=6c09b9522n0ihlo9d3glsbuoib6ia3fnubzn4umipzfvvak2&ep=v1_gifs_search&rid=giphy.gif&ct=g)  
 *Source: Giphy*
 
 ---
@@ -53,4 +52,4 @@ I am learning JavaScript using tutorials from **Code with Harry** and other free
 
 ---
 
-🎉 **Happy Coding!**  
+🎉 **Happy Coding!**
